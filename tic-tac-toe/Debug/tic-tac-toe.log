@@ -1,0 +1,4 @@
+﻿  tic-tac-toe.cpp
+c:\users\mahdy\source\repos\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\mahdy\source\repos\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(135): warning C4018: '<': signed/unsigned mismatch
+  tic-tac-toe.vcxproj -> C:\Users\mahdy\source\repos\tic-tac-toe\Debug\tic-tac-toe.exe
